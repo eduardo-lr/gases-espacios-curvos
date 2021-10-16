@@ -118,5 +118,6 @@ void graficarPvsT () {
 
 int main () {
 	graficarFuncionParticion ();
+	graficarEvsT();
 	return 0;
 }
