@@ -37,7 +37,7 @@ def graficarEvsT ():
 	     10: np.array([0]*Tmaxima, dtype=np.float64)}
 	for i in range(0,Tmaxima):
 		for key in l:
-			l[key] = E(i+1, 1e23, key)
+			l[key][i] = E(i+1, 1e23, key)
 	for key in l:
 		plt.plot(range(1,Tmaxima+1), l[key], label = "V = {}".format(key))
 	plt.legend(loc='upper left')
@@ -52,7 +52,7 @@ def graficarPvsT ():
 	     10: np.array([0]*Tmaxima, dtype=np.float64)}
     	for i in range(0,Tmaxima):
 		for key in l:
-			l[key] = p(i+1, 1e23, key)
+			l[key][i] = p(i+1, 1e23, key)
 	for key in l:
 		plt.plot(range(1,Tmaxima+1), l[key], label = "V = {}".format(key))
     	plt.legend(loc='upper left')
