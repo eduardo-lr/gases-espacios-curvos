@@ -40,7 +40,7 @@ El problema principal, además del ruido causado por la integracion de Monte Car
 
 Para más detalles sobre los aspectos teóricos se puede consultar la [presentacion del proyecto].
 
-Éste trabajo se realizó como proyecto final del [curso de Física Estadística] de la [Licenciatura en Física de la Facultad de Ciencias] en el semestre 2020-2, a cargo del [Dr. Rafael Ángel Barrio Paredes].
+Éste trabajo se realizó como proyecto final del [curso de Física Estadística] de la [Licenciatura en Física de la Facultad de Ciencias] en el semestre 2020-2.
 
 [espacio-tiempo]: <https://es.wikipedia.org/wiki/Espacio-tiempo>
 
@@ -71,9 +71,6 @@ Para más detalles sobre los aspectos teóricos se puede consultar la [presentac
 [curso de Física Estadística]: <http://www.fciencias.unam.mx/asignaturas/829.pdf>
 
 [Licenciatura en Física de la Facultad de Ciencias]: <http://www.fciencias.unam.mx/licenciatura/resumen/106>
-
-[Dr. Rafael Ángel Barrio Paredes]: <http://www.fciencias.unam.mx/directorio/34708>
-
 
 
 
